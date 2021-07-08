@@ -34,7 +34,7 @@ ui <- fluidPage(
       width = 2,
       class = 'title_logo',
       tags$a(
-        href = "https://adsoncostanzi.shinyapps.io/csgoanalyzer/",
+        href = "https://adsoncostanzi.shinyapps.io/Marine/",
         tags$img(src = 'img/ship_logo.png', class = 'main_logo')
       ),
       h1("Marine Case", class = "title")
